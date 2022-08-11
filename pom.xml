@@ -9,7 +9,7 @@
 	<description>Simplest possible Java Webapp</description>
         <!-- This is a check-one for trigger -->
         <!-- Hey check my new trigger -->
-        <!-- Another test -->
+        <!-- Another test with check -->
 	<build>
 		<plugins>
 			<plugin>
